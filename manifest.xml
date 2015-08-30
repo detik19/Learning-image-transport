@@ -1,0 +1,16 @@
+<package>
+  <description brief="learning_image_transport">
+
+     learning_image_transport
+
+  </description>
+  <author>Tedy Tri Saputro</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/learning_image_transport</url>
+  <depend package="image_transport"/>
+  <depend package="cv_bridge"/>
+
+</package>
+
+
